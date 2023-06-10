@@ -12,13 +12,46 @@
 
 - **License:** The data is available for download under CC0: Public Domain License.
 
-## 3. Technologies used ⚙️:satellite:
+## **3. Findings Summary** :bulb:
+
+ * <mark><b>Respondent info</b></mark> 
+    * The survey was conducted on ~4500 people at multiple times in their life.<br>
+    * Most of the respondents spent at least 12 years in school.<br>
+    * People from 22 to 60 years old are the major respondents of this survey.
+    
+
+ * <mark><b>Correlation</b></mark> 
+    * Respondents demographic doesn't have a relationship with the opinions about abortion.
+    * People who supports abortion in any circumstances will be more likely to support abortion in case of "not wanting more children", "being poor", "wanting to be single" and vice verse.
+    
+ 
+ * <mark><b>Survey Collection</b></mark> 
+    * From 1995, the frequency of collecting survey has been changed from every year to once every 2 years.
+    * What is more, the annual survey total after 1995 increased significantly.<br>
+    
+    
+ * <mark><b>Opinions</b></mark>
+    * 43.1% of the respondents didn't stand in either side of the argument about abortion for any reason.
+    * More than 50% of them agreed with abortions in case of 'possibility of defect in babies','effect on mom's health', and 'the baby as a result of rape'.
+    * With questions about 'wanting no more children','poor mom', and 'mom wanting to be single', the 3 options seemed to distribute equally.<br>
+    
+ 
+ * <mark><b>Opinions vs Decade</b></mark>
+    * People live in past (80s and 90s) usually choose to stand in either side, while people from 2000s are more likely to be neutral in most survey questions.<br>
+    
+ 
+ * <mark><b>Opinions vs Race, Sex, and Age</b></mark>
+    * In case of abortion for any reason, the proportion of opinons within each race are the nearly the same, with 'disagree' and 'no opinion' more than 'agree'
+    * The same result goes with Sex and Age.
+
+**👉 VISIT MY WORK [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!**
+
+## 4. Technologies used ⚙️:satellite:
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="24" height="24">
 - [Jupyter Notebook](https://jupyter.org/) <img src="https://user-images.githubusercontent.com/104643138/226098051-177ede6d-3fe5-49a8-8f57-446caf49f94c.png" width="24" height="24">
 - Python Libraries: [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Plotly Express](https://plotly.com/python/plotly-express/) <img src="https://github.com/phucthichlai/Abortion/assets/104643138/2ccdf373-347c-4c72-9131-b7e62cd71dc8" width="24" height="24"/>
 | [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/>
 
-## 4. Vist my work [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!
 ***
 
 ## You can reach me at 👇
