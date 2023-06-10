@@ -18,7 +18,7 @@
 - Python Libraries: [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Plotly Express](https://plotly.com/python/plotly-express/) <img src="https://github.com/phucthichlai/Abortion/assets/104643138/2ccdf373-347c-4c72-9131-b7e62cd71dc8" width="24" height="24"/>
 | [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/>
 
-## 4. Vist my work [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!
+## 4. [Vist my work here](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!
 ***
 
 ## You can reach me at 👇
