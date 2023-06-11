@@ -18,13 +18,8 @@
     * The survey was conducted on ~4500 people at multiple times in their life.<br>
     * Most of the respondents spent at least 12 years in school.<br>
     * People from 22 to 60 years old are the major respondents of this survey.
-    
-
- * <mark><b>Correlation</b></mark> 
-    * Respondents demographic doesn't have a relationship with the opinions about abortion.
-    * People who supports abortion in any circumstances will be more likely to support abortion in case of "not wanting more children", "being poor", "wanting to be single" and vice verse.
-    
- 
+   
+   
  * <mark><b>Survey Collection</b></mark> 
     * From 1995, the frequency of collecting survey has been changed from every year to once every 2 years.
     * What is more, the annual survey total after 1995 increased significantly.<br>
@@ -41,10 +36,11 @@
     
  
  * <mark><b>Opinions vs Race, Sex, and Age</b></mark>
-    * In case of abortion for any reason, the proportion of opinons within each race are the nearly the same, with 'disagree' and 'no opinion' more than 'agree'
-    * The same result goes with Sex and Age.
+    * Age has a negative correlation with Opinion variables.
+    * In case of abortion for any reason, the proportion of opinons within each race are the nearly the same, with 'disagree' and 'no opinion' more than 'agree'.
+    * The same result goes with Sex.
 
-**👉 VISIT MY WORK [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!**
+**👉 VISIT MY WORK [HERE]()!**
 
 ## 4. Technologies used ⚙️:satellite:
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="24" height="24">
