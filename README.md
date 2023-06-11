@@ -40,7 +40,7 @@
     * In case of abortion for any reason, the proportion of opinons within each race are the nearly the same, with 'disagree' and 'no opinion' more than 'agree'.
     * The same result goes with Sex.
 
-**👉 VISIT MY WORK [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!**
+## 👉 VISIT MY WORK [HERE](https://github.com/phucthichlai/Abortion/blob/main/What%20US%20people%20think%20about%20abortion%20-%20EDA.ipynb)!**
 
 ## 4. Technologies used ⚙️:satellite:
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="24" height="24">
