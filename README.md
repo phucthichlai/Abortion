@@ -2,7 +2,7 @@
 
 ## **1. Introduction** :pushpin:
 
-- **Objective**: By Exploratory Data Analysis, this project studies how the survey campaign has been conducted, what we still don't know about the respondents' demographic, and more importantly, what US people really think about abortion with regards to historical period, age, sex, and other factors.
+- **Objective**: By Exploratory Data Analysis, this project studies how the survey campaign has been conducted, what we still don't know about the respondents' demographic, and more importantly, what US people really think about abortion in various historical periods, ages, sex, and other factors.
 
 - **Target Audiences**: The findings may provide some meaningful information for those who are interested in abortion. Meanwhile, this project is also for employers to see my ability in data analysis and visualization with Python.
 
